@@ -1,0 +1,35 @@
+.app {
+  width: 100%;
+  //   max-width: 1230px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.appHeader {
+  margin: 0 10px 30px 10px;
+  background-color: #e4dede;
+  min-height: 50px;
+  display: flex;
+  color: rgb(31, 21, 21);
+  border: 2px solid rgb(197, 193, 193);
+}
+
+.appHeaderTittle {
+  font-size: 32px;
+  margin-left: 10px;
+}
+
+.main {
+display: flex;
+flex-direction: row;
+}
+
+//   .appLink {
+//     color: #61dafb;
+//   }
+
+//   .appLogo {
+//     height: 40vmin;
+//     pointer-events: none;
+//   }
